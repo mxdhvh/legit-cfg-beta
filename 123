@@ -1,0 +1,431 @@
+{
+  "Backtrack": {
+    "Enabled": true
+  },
+  "Chams": {
+    "Allies": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Attachements": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Backtrack": {
+      "Materials": [
+        {
+          "Alpha": 1.0,
+          "Color": "#fffefe",
+          "Enabled": true,
+          "Material": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Enemies": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Hands": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Ragdolls": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Sleeves": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Weapons": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    }
+  },
+  "Draw legitbot fov": {
+    "Alpha": 0.25,
+    "Color": "#ffffff",
+    "Enabled": true
+  },
+  "ESP": {
+    "Enemies": {
+      "All": {
+        "Enabled": true,
+        "Head Box": {
+          "Enabled": true
+        },
+        "Health Bar": {
+          "Enabled": true,
+          "Type": 2
+        },
+        "Name": {
+          "Enabled": true
+        },
+        "Skeleton": {
+          "Enabled": true
+        },
+        "Weapon Icon": {
+          "Enabled": true
+        }
+      }
+    }
+  },
+  "Force baim": {
+    "Key": "NONE",
+    "Key mode": 0
+  },
+  "Glow": {
+    "Players": {
+      "Enemies": {
+        "All": {
+          "Enabled": true
+        }
+      }
+    }
+  },
+  "LegitbotConfig": [
+    {
+      "FOV": 0.53,
+      "HB": 1,
+      "HT": 0,
+      "OV": true,
+      "RT": 0
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "LegitbotGlobal": {
+    "EL": true
+  },
+  "Min damage override Key": {
+    "Key": "NONE",
+    "Key mode": 0
+  },
+  "Misc": {
+    "Adblock": true,
+    "Bunny hop": true,
+    "Disable HUD blur": true,
+    "Disable model occlusion": true,
+    "Edge Bug": true,
+    "Edge Bug Key": {
+      "Key": "LALT",
+      "Key mode": 2
+    },
+    "Inventory Unlocker": true,
+    "Jump stats": {
+      "Enabled": true,
+      "Show color on fail": true,
+      "Simplify naming": true
+    },
+    "Keybind list": {
+      "Pos": {
+        "X": 60.0,
+        "Y": 60.0
+      }
+    },
+    "Keyboard display": {
+      "Enabled": true,
+      "Position": 0.881,
+      "Show key Tiles": true
+    },
+    "Logger": {
+      "Enabled": true
+    },
+    "Logger options": {
+      "Events": 3,
+      "Modes": 1
+    },
+    "Noscope crosshair": true,
+    "Reveal votes": true,
+    "Velocity": {
+      "Enabled": true,
+      "Position": 0.844
+    }
+  },
+  "Rage Anti aim": {
+    "Manual backward Key": {
+      "Key": "NONE",
+      "Key mode": 0
+    },
+    "Manual forward Key": {
+      "Key": "NONE",
+      "Key mode": 0
+    },
+    "Manual left Key": {
+      "Key": "NONE",
+      "Key mode": 0
+    },
+    "Manual right Key": {
+      "Key": "NONE",
+      "Key mode": 0
+    }
+  },
+  "RagebotConfig": [
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "Recoil control system": [
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "Skin changer": [
+    {
+      "Definition index": 42,
+      "Definition override": 508,
+      "Enabled": true
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "Visuals": {
+    "Bullet Impacts": {
+      "Enabled": true
+    },
+    "Bullet Tracers": {
+      "Alpha": 1.0,
+      "Color": "#fefeff",
+      "Enabled": true
+    },
+    "Disable jiggle bones": true,
+    "Disable post-processing": true,
+    "FOV": 5,
+    "Flash reduction": 45,
+    "Fog controller": {
+      "Color": [
+        1.0,
+        0.99999,
+        0.99999
+      ],
+      "Enabled": true
+    },
+    "Fog options": {
+      "Density": 0.209,
+      "End": 2144.13
+    },
+    "Footstep beams": {
+      "Alpha": 1.0,
+      "Color": "#0eccff",
+      "Enabled": true
+    },
+    "Motion Blur": {
+      "Enabled": true,
+      "Forward": true,
+      "Strength": 2.86
+    },
+    "No 3d sky": true,
+    "No grass": true,
+    "No shadows": true,
+    "Playermodel CT": 6,
+    "Playermodel T": 66,
+    "Skybox": 24,
+    "Viewmodel": {
+      "Enabled": true,
+      "Fov": 9,
+      "X": 0.5694,
+      "Y": 6.4057,
+      "Z": 0.427
+    },
+    "Wireframe smoke": true
+  }
+}
